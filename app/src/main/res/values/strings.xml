@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UGD3_E_9590</string>
+    <string name="npm_text">NPM</string>
+    <string name="nama_text">Nama</string>
+    <string name="fakultas_text">Fakultas</string>
+    <string name="jurusan_text">Jurusan</string>
+    <string name="ipk_text">IPK</string>
+    <string name="hobi_text">Hobi</string>
+</resources>
